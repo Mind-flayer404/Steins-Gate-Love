@@ -38,6 +38,7 @@
     border-radius: 30%;
     background-color: rgb(48, 43, 43);
     color: rgb(210,50,10);
+    cursor: pointer;
 }
 
 .button:hover{
@@ -63,6 +64,7 @@
     align-self: center;
     width: 30%;
     border-radius: 20%;
+    cursor: pointer;
 }
 
 .box img:hover{
